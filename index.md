@@ -11,9 +11,9 @@ You can find me on [Twitter](http://twitter.com/nfo), [GitHub](http://github.com
 
 ## Experience
 
-As a freelance, I'm helping building the [Onfocus](http://onfocus.io/) analytics platform, already used by major European media websites.
+As a freelance, I'm helping building the [Onfocus](http://onfocus.io/) advertising optimization platform, already used by major European media websites.
 
-As a co-founder and CTO, I built and still operate the [WebPerf IO](http://webperf.io/) analytics platform. It's used by [major](http://www.lefigaro.fr) [French](http://www.lexpress.fr) [media](http://www.leparisien.fr) [and](http://www.lequipe.fr/) [ecommerce](http://priceminister.com) [websites](http://www.clubic.com/).
+As a co-founder and CTO, I built and still operate the [WebPerf IO](http://webperf.io/) analytics platform. It's used by [major](http://www.lefigaro.fr) [French](http://www.lexpress.fr) [media](http://www.leparisien.fr) [and](http://www.lequipe.fr/) [ecommerce](http://priceminister.com) [websites](http://www.clubic.com/), measuring billions of events per month.
 
 I built the former [Silentale](http://silentale.com) platform, providing painless archiving and search of social and email conversations, used by tens of thousands of people around the globe.
 
@@ -23,7 +23,7 @@ Before that, I worked [at](http://atos.net) [various](http://www.opentext.com/) 
 
 Ouch. Too long to list after 15 years working on so many projects.
 
-These days, I build stream processing platforms with Apache Spark, Apache Samza and/or custom components in Lua, Node.js or Go, storing their data in Aerospike, MemSQL, Cassandra, Kafka, and MongoDB. I design, code, deploy and operate these platforms on bare-metal, AWS or Azure.
+These days, I build scalable and resilient stream processing platforms with Apache Spark, Apache Samza and/or custom components in Lua, Node.js or Go, storing their data in Aerospike, MemSQL, Cassandra, Kafka, and MongoDB. I design, code, deploy and operate these platforms on bare-metal, AWS or Azure.
 
 I am the author of a few web applications powered by Ruby on Rails, Node.js and Lua/OpenResty, all served by nginx.
 
