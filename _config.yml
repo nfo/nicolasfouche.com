@@ -1,0 +1,11 @@
+# Site settings
+title: Nicolas Fouché
+tag_text: Nicolas Fouché
+description: Home page of Nicolas Fouché, freelance backend developer.
+author: Nicolas Fouché
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
