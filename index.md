@@ -29,28 +29,6 @@ I am the author of a few web applications powered by Ruby on Rails, Node.js and 
 
 I know a *few things* about web performance, web security, search engines, coding on electronic boards.
 
-## Open-Source Projects
-
-Sadly, most of my work is closed-source, except a few libraries and tools listed below.
-
-### gmail_xoauth
-
-The Ruby library [gmail_xoauth](https://github.com/nfo/gmail_xoauth) provides passwordless access to Gmail, via the OAuth 2.0 and OAuth 1.0a protocols. It adds the `XOAUTH2` and `XOAUTH` custom authenticators to the standard IMAP and SMTP libraries.
-<iframe src="https://ghbtns.com/github-btn.html?user=nfo&amp;repo=gmail_xoauth&amp;type=watch&amp;count=true&amp;size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
-
-### ZenPush
-
-The Ruby command-line tool [ZenPush](https://github.com/cleverscale/zenpush) allows editing your Zendesk knowledge base in Markdown, while keeping a copy of all your articles in your own code repository.
-<iframe src="https://ghbtns.com/github-btn.html?user=cleverscale&amp;repo=zenpush&amp;type=watch&amp;count=true&amp;size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
-
-### open-in-gitx
-
-The plugin [open-in-gitx](https://github.com/nfo/atom-open-in-gitx) adds an "Open in GitX" command to the Atom editor.
-<iframe src="https://ghbtns.com/github-btn.html?user=nfo&amp;repo=atom-open-in-gitx&amp;type=watch&amp;count=true&amp;size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
-
 ## Talks
 
 I did a talk for [MongoFR 2011](http://lanyrd.com/2011/mongofr/speakers/) in Paris, and a few other ones during various events at [La Cantine](https://paris.numa.co/) between 2009 and 2011.
