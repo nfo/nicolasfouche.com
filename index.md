@@ -4,7 +4,6 @@ layout: default
 
 I'm a developer, startup advisor and seed investor living in the south of France.
 
-<!-- <div class="avatar"><img class="rounded" alt="Nicolas Fouché" src="https://s.gravatar.com/avatar/50b67075e1c0b5c987df1e053a618cf7?s=200"/></div> -->
 
 I'm currently available for hire. If you're interested in some help on your product, send me an <a href="mailto:nicolas.fouche@gmail.com">email</a> and we'll chat. If you want referrals I'd be happy to shoot you some people to contact.
 
