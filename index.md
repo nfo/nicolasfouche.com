@@ -2,8 +2,7 @@
 layout: default
 ---
 
-I'm a developer, startup advisor and seed investor living in the south of France.
-
+I'm a developer, startup technical advisor living in the south of France.
 
 I'm currently available for hire. If you're interested in some help on your product, send me an <a href="mailto:nicolas.fouche@gmail.com">email</a> and we'll chat. If you want referrals I'd be happy to shoot you some people to contact.
 
