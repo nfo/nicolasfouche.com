@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm a developer and startup technical advisor living in the south of France.
+I'm a French senior developer and startup technical advisor.
 
 I'm currently available for hire. If you're interested in some help on your product, send me an <a href="mailto:nicolas.fouche@gmail.com">email</a> and we'll chat. If you want referrals I'd be happy to shoot you some people to contact.
 
@@ -26,7 +26,7 @@ These days, I build scalable and resilient stream processing platforms with Apac
 
 I am the author of a few web applications powered by Ruby on Rails, Node.js and Lua/OpenResty, all served by nginx.
 
-I know a *few things* about web performance, web security, search engines, coding on electronic boards.
+I know a *few things* about web performance, web security, search engines, code quality and efficiency, and coding on electronic boards.
 
 ## Talks
 
