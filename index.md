@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm a French senior developer and startup technical advisor.
+I'm a French senior developer, startup technical advisor and former CTO of [WebPerf IO](http://webperf.io/) and [Silentale](http://silentale.com).
 
 I'm currently available for hire. If you're interested in some help on your product, send me an <a href="mailto:nicolas.fouche@gmail.com">email</a> and we'll chat. If you want referrals I'd be happy to shoot you some people to contact.
 
@@ -10,9 +10,9 @@ You can find me on [Twitter](http://twitter.com/nicolas_), [GitHub](http://githu
 
 ## Experience
 
-As a freelance, I'm helping building the [Onfocus](http://onfocus.io/) advertising optimization platform, already used by major European media websites.
+As a freelance, I'm building the [Onfocus](http://onfocus.io/) advertising optimization platform, already being tested by major European media websites.
 
-As a co-founder and CTO, I built and still operate the [WebPerf IO](http://webperf.io/) analytics platform. It's used by [major](http://www.lefigaro.fr) [French](http://www.lexpress.fr) [media](http://www.leparisien.fr) [and](http://www.lequipe.fr/) [ecommerce](http://priceminister.com) [websites](http://www.clubic.com/), measuring billions of events per month.
+As a co-founder and CTO, I built and still operate the [WebPerf IO](http://webperf.io/) analytics platform, measuring billions of web performance events per month. It's used by major French media and e-commerce websites, like [Le Figaro](http://www.lefigaro.fr), [L'Express](http://www.lexpress.fr), [Le Parisien](http://www.leparisien.fr), [L'Équipe](http://www.lequipe.fr/), or [PriceMinister](http://priceminister.com).
 
 I built the former [Silentale](http://silentale.com) platform, providing painless archiving and search of social and email conversations, used by tens of thousands of people around the globe.
 
@@ -30,4 +30,4 @@ I know a *few things* about web performance, web security, search engines, code 
 
 ## Talks
 
-I did a talk for [MongoFR 2011](http://lanyrd.com/2011/mongofr/speakers/) in Paris, and a few other ones during various events at [La Cantine](https://paris.numa.co/) between 2009 and 2011.
+I did a talk for [MongoFR 2011](http://www.slideshare.net/nfo/mongo-a-la-resque) in Paris, and a few other ones during various events at [La Cantine](https://paris.numa.co/) between 2009 and 2011.
