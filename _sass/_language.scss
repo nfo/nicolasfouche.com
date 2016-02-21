@@ -1,0 +1,8 @@
+.language {
+  font-size:0.8em;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.language .en:lang(en), .fr:lang(fr) { font-weight: bold; }
