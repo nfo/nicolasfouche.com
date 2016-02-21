@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I'm a French senior developer, startup technical advisor and former CTO of [WebPerf IO](http://webperf.io/) and [Silentale](http://silentale.com).
+I'm a French senior developer, <span title="and Président">CTO</span> at [WebPerf IO](http://webperf.io/), and former CTO at [Silentale](http://silentale.com).
 
-I'm currently available for hire. If you're interested in some help on your product, send me an <a href="mailto:nicolas.fouche@gmail.com">email</a> and we'll chat. If you want referrals I'd be happy to shoot you some people to contact.
+I'm currently available for freelance hire. If you're interested in some help on your product, send me an <a href="mailto:nicolas.fouche@gmail.com">email</a> and we'll chat. If you want referrals I'd be happy to shoot you some people to contact.
 
 You can find me on [Twitter](http://twitter.com/nicolas_), [GitHub](http://github.com/nfo), and [LinkedIn](http://www.linkedin.com/in/nicolasfouche).
 
