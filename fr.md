@@ -28,6 +28,8 @@ Je suis aussi l'auteur de plusieurs applications web en Ruby on Rails, Node.js e
 
 Je connais *quelques trucs* à propos de la performance web, la sécurité, les moteurs de recherche, la qualité du code et son efficacité.
 
+Mes [librairies open-source]((https://rubygems.org/profiles/nfo)) ont été téléchargées plus de 600 000 fois.
+
 ## Talks
 
 Durant l'évènement [MongoFR 2011](http://www.slideshare.net/nfo/mongo-a-la-resque) à Paris, et quelques autres à [La Cantine](https://paris.numa.co/) entre 2009 et 2011.

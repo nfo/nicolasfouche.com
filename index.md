@@ -28,6 +28,8 @@ I am the author of a few web applications powered by Ruby on Rails, Node.js and 
 
 I know a *few things* about web performance, web security, search engines, code quality and efficiency, and coding on electronic boards.
 
+My [open-source libraries](https://rubygems.org/profiles/nfo) were downloaded more than 600,000 times.
+
 ## Talks
 
 I did a talk for [MongoFR 2011](http://www.slideshare.net/nfo/mongo-a-la-resque) in Paris, and a few other ones during various events at [La Cantine](https://paris.numa.co/) between 2009 and 2011.
