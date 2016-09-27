@@ -12,6 +12,8 @@ You can find me on [Twitter](http://twitter.com/nicolas_), [GitHub](http://githu
 
 As a freelance, I'm building the [Onfocus](http://onfocus.io/) advertising optimization platform, already being tested by major European media websites.
 
+Other freelance projects include the [Teamrise](https://teamrise.io/) webapp, and a few still-not-released webapp.
+
 As a co-founder and CTO, I built and still operate the [WebPerf IO](http://webperf.io/) analytics platform, measuring billions of web performance events per month. It's used by major French media and e-commerce websites, like [Le Figaro](http://www.lefigaro.fr), [L'Express](http://www.lexpress.fr), [Le Parisien](http://www.leparisien.fr), [L'Équipe](http://www.lequipe.fr/), or [PriceMinister](http://priceminister.com).
 
 I built the former [Silentale](http://silentale.com) platform, providing painless archiving and search of social and email conversations, used by tens of thousands of people around the globe.
@@ -22,13 +24,15 @@ Before that, I worked [at](http://atos.net) [various](http://www.opentext.com/) 
 
 Ouch. Too long to list after 15 years working on so many projects.
 
-These days, I build scalable and resilient stream processing platforms with Apache Spark, Apache Samza and/or custom components in Lua, Node.js or Go, storing their data in Aerospike, MemSQL, Cassandra, Kafka, and MongoDB. I design, code, deploy and operate these platforms on bare-metal, AWS or Azure.
+These days, I build scalable and resilient stream processing platforms with Kafka Streams, Apache Spark and/or custom components in Lua, Node.js or Go, storing their data in Aerospike, MemSQL, Cassandra, Kafka, and MongoDB. I design, code, deploy and operate these platforms on bare-metal, Scalway, AWS and Azure.
 
-I am the author of a few web applications powered by Ruby on Rails, Node.js and Lua/OpenResty, all served by nginx.
+Some of these platforms provide machine learning features, validated with Jupyter and H2O via tons of custom graphs.
 
-I know a *few things* about web performance, web security, search engines, code quality and efficiency, and coding on electronic boards.
+I am also the author of several web applications powered by Ruby on Rails, Node.js and Lua/OpenResty backend, all served by nginx. On the frontend side, they use plain JS, React or AngularJS.
 
-My [open-source libraries](https://rubygems.org/profiles/nfo) were downloaded more than 600,000 times.
+I know a *few things* about web performance, web security, the DevOps culture, search engines, code quality and efficiency, and coding on electronic boards.
+
+My [open-source libraries](https://rubygems.org/profiles/nfo) were downloaded more than 750,000 times.
 
 ## Talks
 
