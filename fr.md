@@ -32,7 +32,7 @@ Je suis aussi l'auteur de plusieurs applications web en Ruby on Rails, Node.js e
 
 Je connais *quelques trucs* à propos de la performance web, la sécurité, la culture DevOps, les moteurs de recherche, la qualité du code et son efficacité.
 
-Mes [librairies open-source]((https://rubygems.org/profiles/nfo)) ont été téléchargées plus de 750 000 fois.
+Mes [librairies open-source]((https://rubygems.org/profiles/nfo) ont été téléchargées plus de 750 000 fois.
 
 ## Talks
 
