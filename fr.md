@@ -2,7 +2,7 @@
 layout: default_fr
 ---
 
-Je suis un développeur confirmé, CTO de [Onfocus](http://onfocus.io), <span title="et Président">CTO</span> de [WebPerf IO](http://webperf.io), et ancien CTO de [Silentale](http://silentale.com).
+Je suis un développeur confirmé, CTO de [Onfocus](http://onfocus.io), <span title="et Président">ancien CTO</span> de [WebPerf IO](http://webperf.io), et ancien CTO de [Silentale](http://silentale.com).
 
 Je suis disponible pour du travail en freelance. Si vous êtes intéressé, envoyez-moi un <a href="mailto:nicolas.fouche@gmail.com">email</a> et nous discuterons. Si vous souhaitez des recommandations, je serai heureux de vous envoyer des personnes à contacter.
 

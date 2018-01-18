@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm a French senior developer, CTO at [Onfocus](http://onfocus.io), <span title="and Président">CTO</span> at [WebPerf IO](http://webperf.io), and former CTO at [Silentale](http://silentale.com).
+I'm a French senior developer, CTO at [Onfocus](http://onfocus.io), <span title="and Président">former CTO</span> at [WebPerf IO](http://webperf.io), and former CTO at [Silentale](http://silentale.com).
 
 I can make myself available for freelance hire. If you're interested in some help on your product, send me an <a href="mailto:nicolas.fouche@gmail.com">email</a> and we'll chat. If you want referrals I'd be happy to shoot you some people to contact.
 
