@@ -12,7 +12,7 @@ Vous pouvez me trouver sur [Twitter](http://twitter.com/nicolas_), [GitHub](http
 
 Je construis la plateforme d'optimisation publicitaire d'[Onfocus](http://onfocus.io/), utilisée par un grand nombre de médias européens.
 
-En tant que co-fondateur et CTO, j'ai construit et opère toujours la plateforme d'analytics de [WebPerf IO](http://webperf.io/), qui mesure plusieurs milliards d'évènements par mois. Le produit est utilisé par des sites majeurs des médias et du e-commerce, comme [Le Figaro](http://www.lefigaro.fr), [L'Express](http://www.lexpress.fr), [Le Parisien](http://www.leparisien.fr), [L'Équipe](http://www.lequipe.fr/), ou encore [PriceMinister](http://priceminister.com).
+En tant que co-fondateur et CTO, j'ai construit et opéré la plateforme d'analytics de [WebPerf IO](http://webperf.io/), qui mesure plusieurs milliards d'évènements par mois. Le produit est utilisé par des sites majeurs des médias et du e-commerce, comme [Le Figaro](http://www.lefigaro.fr), [L'Express](http://www.lexpress.fr), [Le Parisien](http://www.leparisien.fr), [L'Équipe](http://www.lequipe.fr/), ou encore [PriceMinister](http://priceminister.com).
 
 J'ai construit la première plateforme de [Silentale](http://silentale.com), permettant l'archivage et la recherche des conversions sociales et privées, utilisée par plusieurs dizaines de milliers de personnes à travers le monde.
 

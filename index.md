@@ -12,7 +12,7 @@ You can find me on [Twitter](http://twitter.com/nicolas_), [GitHub](http://githu
 
 I'm building the [Onfocus](http://onfocus.io/) advertising optimization platform, used by European media websites.
 
-As a co-founder and CTO, I built and still operate the [WebPerf IO](http://webperf.io/) analytics platform, measuring billions of web performance events per month. It's used by major French media and e-commerce websites, like [Le Figaro](http://www.lefigaro.fr), [L'Express](http://www.lexpress.fr), [Le Parisien](http://www.leparisien.fr), [L'Équipe](http://www.lequipe.fr/), or [PriceMinister](http://priceminister.com).
+As a co-founder and CTO, I built and operated the [WebPerf IO](http://webperf.io/) analytics platform, measuring billions of web performance events per month. It's used by major French media and e-commerce websites, like [Le Figaro](http://www.lefigaro.fr), [L'Express](http://www.lexpress.fr), [Le Parisien](http://www.leparisien.fr), [L'Équipe](http://www.lequipe.fr/), or [PriceMinister](http://priceminister.com).
 
 I built the former [Silentale](http://silentale.com) platform, providing painless archiving and search of social and email conversations, used by tens of thousands of people around the globe.
 
