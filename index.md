@@ -10,7 +10,7 @@ You can find me on [Twitter](https://twitter.com/nicolas_), [GitHub](https://git
 
 ## Experience
 
-I'm building the [Adagio](https://adagio.io/) advertising optimization platform, used by European media websites.
+I'm building the [Adagio](https://adagio.io/) advertising optimization platform.
 
 As a co-founder and CTO, I built and operated the [WebPerf IO](https://webperf.io/) analytics platform, measuring billions of web performance events per month. It's used by major French media and e-commerce websites, like [Le Figaro](https://www.lefigaro.fr), [L'Express](https://www.lexpress.fr), [Le Parisien](https://www.leparisien.fr), [L'Équipe](https://www.lequipe.fr/), or [PriceMinister](https://priceminister.com).
 
