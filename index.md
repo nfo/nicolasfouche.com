@@ -2,21 +2,21 @@
 layout: default
 ---
 
-I'm a French senior developer, CTO at [Onfocus](http://onfocus.io), <span title="and Président">former CTO</span> at [WebPerf IO](http://webperf.io), and former CTO at [Silentale](http://silentale.com).
+I'm a French senior developer, CTO at [Adagio](https://adagio.io), <span title="and Président">former CTO</span> at [WebPerf IO](https://webperf.io), and former CTO at [Silentale](http://silentale.com).
 
 I can make myself available for freelance hire. If you're interested in some help on your product, send me an <a href="mailto:nicolas.fouche@gmail.com">email</a> and we'll chat. If you want referrals I'd be happy to shoot you some people to contact.
 
-You can find me on [Twitter](http://twitter.com/nicolas_), [GitHub](http://github.com/nfo), and [LinkedIn](http://www.linkedin.com/in/nicolasfouche).
+You can find me on [Twitter](https://twitter.com/nicolas_), [GitHub](https://github.com/nfo), and [LinkedIn](https://www.linkedin.com/in/nicolasfouche).
 
 ## Experience
 
-I'm building the [Onfocus](http://onfocus.io/) advertising optimization platform, used by European media websites.
+I'm building the [Adagio](https://adagio.io/) advertising optimization platform, used by European media websites.
 
-As a co-founder and CTO, I built and operated the [WebPerf IO](http://webperf.io/) analytics platform, measuring billions of web performance events per month. It's used by major French media and e-commerce websites, like [Le Figaro](http://www.lefigaro.fr), [L'Express](http://www.lexpress.fr), [Le Parisien](http://www.leparisien.fr), [L'Équipe](http://www.lequipe.fr/), or [PriceMinister](http://priceminister.com).
+As a co-founder and CTO, I built and operated the [WebPerf IO](https://webperf.io/) analytics platform, measuring billions of web performance events per month. It's used by major French media and e-commerce websites, like [Le Figaro](https://www.lefigaro.fr), [L'Express](https://www.lexpress.fr), [Le Parisien](https://www.leparisien.fr), [L'Équipe](https://www.lequipe.fr/), or [PriceMinister](https://priceminister.com).
 
 I built the former [Silentale](http://silentale.com) platform, providing painless archiving and search of social and email conversations, used by tens of thousands of people around the globe.
 
-Before that, I worked [at](http://atos.net) [various](http://www.opentext.com/) [companies](http://www.michelin.com/) in France and Canada after graduating from the [Conservatoire National des Arts et Métiers](http://the.cnam.eu/).
+Before that, I worked [at](https://atos.net) [various](https://www.opentext.com/) [companies](https://www.michelin.com/) in France and Canada after graduating from the [Conservatoire National des Arts et Métiers](https://the.cnam.eu/).
 
 ## Skills
 
@@ -34,4 +34,4 @@ My [open-source libraries](https://rubygems.org/profiles/nfo) were downloaded mo
 
 ## Talks
 
-I did a talk for [MongoFR 2011](http://www.slideshare.net/nfo/mongo-a-la-resque) in Paris, and a few other ones during various events at [La Cantine](https://paris.numa.co/) between 2009 and 2011.
+I did a talk for [MongoFR 2011](https://www.slideshare.net/nfo/mongo-a-la-resque) in Paris, and a few other ones during various events at [La Cantine](https://paris.numa.co/) between 2009 and 2011.
