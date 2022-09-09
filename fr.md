@@ -16,21 +16,13 @@ En tant que co-fondateur et CTO, j'ai construit et opéré la plateforme d'analy
 
 J'ai construit la première plateforme de [Silentale](http://silentale.com), permettant l'archivage et la recherche des conversions sociales et privées, utilisée par plusieurs dizaines de milliers de personnes à travers le monde.
 
-Précédemment, on pouvait me trouver [dans](https://atos.net) [différentes](https://www.opentext.com/) [entreprises](https://www.michelin.com/) en France et au Canada tout en étudiant au [Conservatoire National des Arts et Métiers](https://the.cnam.eu/).
-
-## Compétences
-
-Ouch. Trop long à lister après 15 années à travailler sur tant de projets.
-
-Ces jours-ci, je construis des plateformes de stream-processing *resilient* et *scalable* avec Kafka Streams, Apache Spark et les solutions de Google Cloud. Les données sont stockées dans Aerospike, MemSQL, Cassandra, Kafka, et/ou MongoDB. Je conçois, développe, déploie et opère ces plateformes sur du bare-metal, Scaleway, Google Cloud, AWS, Azure.
-
-Plusieurs de ces plateformes fournissent des fonctionnalités de machine learning, avec H2O et Tensorflow.
-
-Je suis aussi l'auteur de plusieurs applications web en Ruby on Rails, Node.js et Lua/OpenResty, toutes servies par nginx. Côté frontend, elles utilisent du pur JS, React, ou AngularJS.
-
-Je connais aussi *quelques trucs* à propos de la performance web, la sécurité, la culture DevOps, les moteurs de recherche, la qualité du code et son efficacité.
+Précédemment, on pouvait me trouver [dans](https://atos.net) [différentes](https://www.opentext.com/) [entreprises](https://www.michelin.com/) en France et au Canada tout en étudiant au [Conservatoire National des Arts et Métiers](https://www.cnam.fr/).
 
 Mes [librairies open-source](https://rubygems.org/profiles/nfo) ont été téléchargées plus de 750 000 fois.
+
+## Open source
+
+Quelques [gems Ruby](https://rubygems.org/profiles/nfo).
 
 ## Talks
 
