@@ -4,8 +4,6 @@ layout: default_fr
 
 Je suis un développeur confirmé, CTO de [Adagio](https://adagio.io), <span title="et Président">ancien CTO</span> de [WebPerf IO](https://webperf.io), et ancien CTO de [Silentale](http://silentale.com).
 
-Je suis disponible pour du travail en freelance. Si vous êtes intéressé, envoyez-moi un <a href="mailto:nicolas.fouche@gmail.com">email</a> et nous discuterons. Si vous souhaitez des recommandations, je serai heureux de vous envoyer des personnes à contacter.
-
 Vous pouvez me trouver sur [Twitter](https://twitter.com/nicolas_), [GitHub](https://github.com/nfo), et [LinkedIn](https://www.linkedin.com/in/nicolasfouche).
 
 ## Éxperience

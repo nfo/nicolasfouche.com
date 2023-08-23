@@ -4,8 +4,6 @@ layout: default
 
 I'm a French senior developer, CTO at [Adagio](https://adagio.io), <span title="and Président">former CTO</span> at [WebPerf IO](https://webperf.io), and former CTO at [Silentale](http://silentale.com).
 
-I can make myself available for freelance hire. If you're interested in some help on your product, send me an <a href="mailto:nicolas.fouche@gmail.com">email</a> and we'll chat. If you want referrals I'd be happy to shoot you some people to contact.
-
 You can find me on [Twitter](https://twitter.com/nicolas_), [GitHub](https://github.com/nfo), and [LinkedIn](https://www.linkedin.com/in/nicolasfouche).
 
 ## Experience
